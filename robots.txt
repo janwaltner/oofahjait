@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiwooghoqu.mountainclimbers.space/sitemap.xml
